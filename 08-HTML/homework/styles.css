@@ -1,0 +1,25 @@
+.divClass h1 {
+    color:brown;
+}
+#thirdDiv img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px; width: 500px;
+}
+#thirdDiv {
+    background-color: blue;
+}
+#spanId span {
+    font-size: 18px;
+}
+#spanId {
+    margin: 50px;
+}
+#thirdDiv {
+    padding: 50px;
+}
+#thirdDiv {
+    border-width: 20px; border-color: cyan;
+    border-style:outset;
+}
