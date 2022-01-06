@@ -1,25 +1,37 @@
 .divClass h1 {
     color:brown;
 }
+.divClass h3, h4 {
+    color: blanchedalmond;
+}
+.divClass a {
+    color: blueviolet;
+}
 #thirdDiv img {
-    width: 400px;
+   /* ancho */ width: 400px;
 }
 #thirdDiv {
-    height: 600px; width: 500px;
+    /* largo o alto */height: 600px; width: 500px;
+}
+#thirdDiv li {
+    color: blanchedalmond;
 }
 #thirdDiv {
-    background-color: blue;
+  /* color de fondo */  background-color: black;
 }
 #spanId span {
-    font-size: 18px;
+   /* tamaño de letra */ font-size: 18px;
 }
 #spanId {
     margin: 50px;
 }
 #thirdDiv {
-    padding: 50px;
+   /* relleno */ padding: 50px;
 }
 #thirdDiv {
-    border-width: 20px; border-color: cyan;
+    border-width: 20px; border-color: beige;
     border-style:outset;
+}
+.divClass {
+    margin: 0px auto;
 }
